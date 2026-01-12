@@ -1,0 +1,6 @@
+streamlit
+crewai
+crewai-tools
+tavily-python
+langchain-groq
+python-dotenv
